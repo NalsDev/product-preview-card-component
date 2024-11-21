@@ -13,13 +13,13 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Dark cyan: hsl(158, 36%, 37%)
-- Cream: hsl(30, 38%, 92%)
+- Dark cyan: hsl(158, 36%, 37%) // price, button
+- Cream: hsl(30, 38%, 92%) //body background
 
 ### Neutral
 
-- Very dark blue: hsl(212, 21%, 14%)
-- Dark grayish blue: hsl(228, 12%, 48%)
+- Very dark blue: hsl(212, 21%, 14%) // underline color hover color
+- Dark grayish blue: hsl(228, 12%, 48%) //p color
 - White: hsl(0, 0%, 100%)
 
 ## Typography
