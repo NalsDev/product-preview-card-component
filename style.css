@@ -28,7 +28,7 @@ main{
 }
 
 .perfume-container{
-  width:70%;
+  width:80%;
   padding:30px;
 }
 
@@ -77,4 +77,29 @@ h1{
 
 .icon-class{
   margin-right:10px;
+}
+
+h1{
+  color:hsl(212, 21%, 14%)
+}
+
+.cart-button:hover{
+  background-color:hsl(158, 49%, 18%);
+}
+
+@media screen and (max-width:376px)
+{
+  .container{
+    display:flex;
+    flex-direction:column;
+    width:100%;
+  }
+
+  .perfume-container{
+    width:100%;
+  }
+
+  main{
+    width:100%;
+  }
 }
